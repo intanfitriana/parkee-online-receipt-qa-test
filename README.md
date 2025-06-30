@@ -43,7 +43,7 @@ Dokumen ini merupakan hasil dari technical test QA untuk fitur *Online Receipt* 
 
 ## 🙋‍♀️ Tentang Saya
 Nama: *Intan Fitriana Reffandia*  
-Role: Quality Assurance Tester  
+Role: Software Quality Assurance  
 Email: [intanfitriana85@gmail.com]
 
 ---
